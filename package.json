@@ -15,5 +15,9 @@
     "vue-server-renderer": "^2.7.10",
     "vue-template-compiler": "^2.7.10"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "sass": "^1.57.1",
+    "sass-loader": "10",
+    "webpack": "^5.75.0"
+  }
 }
