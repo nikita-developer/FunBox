@@ -1,0 +1,13 @@
+.product {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-image: url("@/static/media/product-bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    &__list {
+        margin: auto;
+    }
+}
